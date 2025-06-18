@@ -1,4 +1,5 @@
 📊 Population Data Visualization
+
 As part of exploratory data analysis, we visualized population trends using a dataset containing population figures for various countries from 1960 to 2024.
 
 ✅ Key Tasks:
@@ -11,6 +12,7 @@ Continuous Variable Visualization:
 Generated a histogram to show the distribution of population values across countries for a selected year.
 
 📌 Tools Used:
+
 Python
 
 Pandas for data wrangling
