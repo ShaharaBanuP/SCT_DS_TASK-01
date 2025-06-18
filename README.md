@@ -1,6 +1,6 @@
 📊 Population Data Visualization
 
-As part of exploratory data analysis, we visualized population trends using a dataset containing population figures for various countries from 1960 to 2024.
+As part of exploratory data analysis, I visualized population trends using a dataset containing population figures for various countries from 1960 to 2024.
 
 ✅ Key Tasks:
 Data Cleaning: Removed unnecessary columns, stripped whitespaces, and ensured population columns were in numeric format.
